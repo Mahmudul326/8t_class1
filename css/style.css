@@ -1,0 +1,29 @@
+.some{
+	width: 120px;
+	height: 120px;
+	background-color: blue;
+	margin: 50px 200px;
+}
+.some1{
+	width: 130px;
+	height: 130px;
+	background-color: yellow;
+	padding: 50px;
+}
+.some2{
+	width: 130px;
+	height: 130px;
+	background-color: green;
+	padding: 70px;
+	border: 5px solid black;
+	margin: 150px 100px;
+}
+h4{
+	display: inline;
+}
+a{
+	display: block;
+}
+h6{
+	display: inline-block;
+}
